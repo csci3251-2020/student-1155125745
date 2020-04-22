@@ -19,4 +19,4 @@
 |write|what|
 
 ## ScreenShot
-![ScreenShot](ms2.png)
+![ScreenShot](https://github.com/csci3251-2020/student-1155125745/blob/master/ms2.PNG)
